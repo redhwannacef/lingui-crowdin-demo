@@ -5,52 +5,52 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: @lingui/cli\n"
-"Language: cs\n"
+"Language: fr\n"
 "Project-Id-Version: linguijs-crowdin-demo\n"
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: 2023-03-29 12:00\n"
 "Last-Translator: \n"
-"Language-Team: Czech\n"
-"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
+"Language-Team: French\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Crowdin-Project: linguijs-crowdin-demo\n"
 "X-Crowdin-Project-ID: 577627\n"
-"X-Crowdin-Language: cs\n"
+"X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /src/locales/en/messages.po\n"
 "X-Crowdin-File-ID: 87\n"
 
 #: src/App.tsx:37
 msgid "Date formatter example:"
-msgstr "Příklad formátovače data:"
+msgstr "Another test"
 
 #: src/App.tsx:28
 msgid "Decrement"
-msgstr "Úbytek"
+msgstr "Some text here"
 
 #: src/App.tsx:45
 msgid "I have a balance of {0}"
-msgstr "Mám zůstatek {0}"
+msgstr ""
 
 #: src/App.tsx:25
 msgid "Increment"
-msgstr "Přírůstek"
+msgstr ""
 
 #: src/App.tsx:14
 msgid "Language switcher example:"
-msgstr "Příklad přepínače jazyků:"
+msgstr ""
 
 #: src/App.tsx:43
 msgid "Number formatter example:"
-msgstr "Příklad formátovače čísel:"
+msgstr ""
 
 #: src/App.tsx:22
 msgid "Plurals example:"
-msgstr "Příklad množného čísla:"
+msgstr ""
 
 #: src/App.tsx:39
 msgid "Today is {0}"
-msgstr "Dnes je {0}"
+msgstr ""
 
 #: src/App.tsx:31
 msgid "{count, plural, zero {There are no books} one {There's one book} other {There are # books}}"
-msgstr "{count, plural, zero {Nejsou žádné knihy} one {Je tu jedna kniha} other {Existuje # knih}}"
+msgstr ""
 
