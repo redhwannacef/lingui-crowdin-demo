@@ -15,7 +15,7 @@ msgstr ""
 
 #: src/App.tsx:37
 msgid "Date formatter example:"
-msgstr "Date formatter example:"
+msgstr "Date formatter example"
 
 #: src/App.tsx:28
 msgid "Decrement"
